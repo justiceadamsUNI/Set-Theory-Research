@@ -100,5 +100,10 @@ This is all the information from the first chapter of the book before the class 
 - Should we define a family of functions? Maybe you did that, but I missed it if so. 
 - Specific question about her notes which will not be documented publicly.
 
-# For next week
+## For next week
 So for next week, I'm going to develop a LateX document which I will continuously update throughout this project. It will hopefully serve as our final deliverable at the end of the year. Things will become much easier to reason about with proper mathematical documentation. After touching base with Dr. Stanley, I'm going to include the definitions we decide to include (before jumping to axioms) and then some example problems. After that, I'll have Dr. Stanley (and maybe some others) review the work before I add anything from axioms onto the page. I'll also actually read Chapter 3 before diving into the notes from both Stanley and Jake. Ideally, by the end of next week, the first 1.5 (ish) weeks of class is included in the packet. It's a small win, but that's why I'm spending all year on this project! If anything else comes up after e-mailing Dr. Stanley, I will adjust my plans accordingly and document it in the next post.
+
+# Sources used this week
+- Dr. Stanley (as always)
+- Jake Weber (his notes were valuable)
+- [Judith Roitman's third edition of Introduction to Modern Set Theory](https://www.amazon.com/Introduction-Modern-Theory-Judith-Roitman/dp/0989897516)
