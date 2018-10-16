@@ -12,11 +12,11 @@ Almost all of this content came from my recap of chapter 1 from the textbook and
 
 Some notes that I need to be answered/considered by Dr. Stanley regarding the first section of the document:
 
-##Things to note##:
+## Things to note: ##
 - I marked Instructor notes with "Potential instructor note" below any definitions/theorems I felt needed some clarification. In the end we are hoping two have two forms of the document. One for instructors and one for students.
 - I still don't know whether to number the problems with the same scheme as the definitions, meaning we don't have problem 1, problem 2, definition 1. It would become problem 1, problem 2, definition 3. Thus, 1-2->3. It always bugged me how the other packets did it, but my life is considerably easier doing it the ugly way in latex.
 
-##Questions regarding content:##
+## Questions regarding content: ##
 - Should we define lexicographical ordering? I'm not sure if this is common knowledge. Maybe before problem 3?
 - Are extending functions necessary to the course? Are they imperative?
 - Is my definition of linear order correct?
@@ -36,7 +36,7 @@ After creating this initial document and documenting what I need to circle back 
 ```
 Definitions of a subset, proper subset, union, intersection, set complement, and the empty set
 ```
-Thoughts: This would probably have been covered by a pre-requisite course (DAM) so I'm making the conscious decision to omit them from the packet (for now...)
+Thoughts: This would probably have been covered by a pre-requisite course (DAM) so I'm making the conscious decision to omit them from the packet (for now...) Forgive my lack of LateX in GH markdown.
 
 ```
 Axiom 1: Extensionality - two sets are equal if and only if they have the same elements: For all x, for all y, x == y iff for all z (z in x iff z in y)
@@ -56,11 +56,11 @@ Axiom 2: Pairing axiom - For all x, for all y, there exists z such that x == {x,
 ```
 
 ```
-Defintion of an ordered pair in terms of sets - (x,y) = {{x}, {x,y}}
+Definition of an ordered pair in terms of sets - (x,y) = {{x}, {x,y}}
 ```
 
 ```
-Definiot - (x,y) = (z,w) iff x==z and y==w
+Definition - (x,y) = (z,w) iff x==z and y==w
 ```
 
 ```
@@ -82,7 +82,7 @@ Axiom 3: Union axiom - For all x, there exists Y such that y = Union of all x's
 ```
 
 ```
-Axiom 4: Seperation Axiom - Let theta be a formula with free variables x0,...,xn. Then for all x, for all x0... for all x_n-1 there exists y sugh that y = {z in x: theta(x0,...x_n-1, z)}
+Axiom 4: Separation Axiom - Let theta be a formula with free variables x0,...,xn. Then for all x, for all x0... for all x_n-1 there exists y such that y = {z in x: theta(x0,...x_n-1, z)}
 ```
 
 
